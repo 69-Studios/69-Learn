@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = '69Learn - Web Programming in Your Hands'
+theme = "69lt"
