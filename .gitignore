@@ -1,3 +1,5 @@
 node_modules/*
-.hugo_build.lock
 resources/_gen/*
+.hugo_build.lock
+.frontmatter/
+.vscode/
